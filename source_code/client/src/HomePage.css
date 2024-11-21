@@ -1,0 +1,13 @@
+.media-library2 {
+    background-color: rgba(239, 236, 236, 0.954);
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    text-align: left;
+}
+
+.loginForm{
+    background-color: rgb(237,237,247);
+    padding: '10px';
+}

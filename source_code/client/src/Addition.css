@@ -1,0 +1,49 @@
+.add-num1 {
+    margin-left: 10%;
+    padding: 8px;
+    width: 250px;
+    border-radius: 5px;
+}
+.add-num2 {
+    margin-left: 7.7%;
+    padding: 8px;
+    width: 250px;
+    border-radius: 5px;
+}
+.add-submit {
+    height: 40px;
+    width: 80px;
+    font-size: medium;
+    color: #FFFF;
+    background-color: rgb(31, 101, 240);
+    border-radius: 10px;
+    border-style: none;
+}
+.result-server {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+.result-react {
+    margin-top: 50%;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+.addition-library {
+    width: 75%;
+    padding: 15px;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.media-library3 {
+    background-color: rgba(239, 236, 236, 0.954);
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    text-align: left;
+}

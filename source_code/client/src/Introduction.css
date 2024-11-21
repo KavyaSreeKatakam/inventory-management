@@ -1,0 +1,42 @@
+.media-library {
+    background-color: rgba(239, 236, 236, 0.954);
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+    text-align: left;
+}
+svg {
+    color: rgb(84, 60, 132);
+}
+.profile-image {
+    margin-top: 20px;
+    margin-left: 150px;
+    float: left;
+}
+.name {
+    float: left;
+    width: 50%;
+    margin-top: 80px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    border: none;
+}
+.description {
+    overflow: hidden;
+    float: left;
+    width: 60%;
+    padding: 18px;
+    padding-bottom: 90px;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+}
+.addition {
+    text-align: left;
+    margin-top: 3%;
+    margin-left: 10%;
+}
